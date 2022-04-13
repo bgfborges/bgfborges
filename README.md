@@ -34,5 +34,6 @@ I'm open for hiring - to learn and provide. Get in touch.
 </div>
 
 <div>
+<hr />
 #backend #frontend #javascript #node #react
 </div>
