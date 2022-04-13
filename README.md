@@ -1,9 +1,6 @@
 ## Hello, World! I'm Gabriel, WordPress - PHP/JS specialist, NodeJS and React developer!
-<div align="center">
 
-  Hello World!
-  
-</div>
+### Hello World! 👋
 
 I'm a fullstack programmer. I've been programming for over 10 years, many of which were with PHP and HTML/CSS/JS and frameworks like WordPress, then Javascript/Typescript with Node and React.
   
