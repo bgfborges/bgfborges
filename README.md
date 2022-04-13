@@ -3,6 +3,31 @@
 ### Hello World! 👋
 
 I'm a fullstack programmer. I've been programming for over 10 years, many of which were with PHP and HTML/CSS/JS and frameworks like WordPress, then Javascript/Typescript with Node and React.
+
+I love learning professionally as well as for many different hobbies.
+
+<ul>
+  <li>Languages:</li>
+  <ul>
+    <li>🇧🇷 Portuguese (native)</li>
+    <li>🇺🇸 English (advanced)</li>
+    <li>🇷🇺 Russian (advanced)</li>
+    <li>🇪🇸 Spanish (Intermediate)</li>
+    <li>🇩🇪 German (Beginner)</li>
+  </ul>
+  <li>Hobbies:</li>
+  <ul>
+    <li>✍🏻 Writting (Poems and Short Stories)</li>
+    <li>📚 Reading (Poems and Romances)</li>
+    <li>📚 Studying (Physics and Math)</li>
+    <li>🎱 Playing Billiards (Intermediate)</li>
+    <li>🍽️ Cooking the Most Exotic Foods</li>
+  </ul>
+</ul>
+
+Many of my works are privet because of contractual affairs, anyway I can show what I'm able for. 
+
+I'm open for hiring - to learn and provide. Get in touch.
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Gab-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -10,8 +35,6 @@ I'm a fullstack programmer. I've been programming for over 10 years, many of whi
   <img align="center" alt="Gab-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Gab-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Gab-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Gab-Php" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-  <img align="center" alt="Gab-WordPress" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg">
 </div>
   
   ##
