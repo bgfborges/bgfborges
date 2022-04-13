@@ -1,39 +1,70 @@
-## I'm Gabriel - NodeJS and React developer!
+<img align="right" height="500em" src="https://raw.githubusercontent.com/gist/bgfborges/b02918436c83505a13fb9ce41b8f64e2/raw/86fe8a871ce07df058f03cd65e9586c4dc88b62d/githubcard.svg"/>
+<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Breno Borges</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=bgfborges&color=yellow" alt="Profile views" /> </p>
 
-### Hello World! 👋
+- 🔥 Web Developer focused on JavaScript Technologies
 
-I'm a fullstack programmer. I've been programming for over 10 years, many of which were with PHP and HTML/CSS/JS and frameworks like WordPress, then Javascript/Typescript with Node and React.
+- 🔭 I’m currently working at [aiLouise](https://ailouise.com)
 
-I love learning professionally as well as for many different hobbies.
-Languages: 🇧🇷 Portuguese (native) // 🇺🇸 English (advanced) // 🇷🇺 Russian (advanced) // 🇪🇸 Spanish (Intermediate) //🇩🇪 German (Beginner)
+- 👨‍💻 Some of my projects are available at [Repositories](https://github.com/bgfborges?tab=repositories)
 
+- 🌐 Languages I Speak: 🇧🇷 🇺🇸 🇷🇺 🇪🇸
 
-Hobbies: ✍🏻 Writting (Poems and Short Stories) // 📚 Reading (Poems and Romances) // 📚 Studying (Physics and Math) // 🎱 Playing Billiards (Intermediate) // 🍽️ Cooking the Most Exotic Foods
+- 💬 Ask me about **JavaScript, HTML, CSS, SQL, Node.JS, React**
 
-Many of my works are privet because of contractual affairs, anyway I can show what I'm able for. 
+- ⚡ Fun fact... **More than I do speak Russian?**
 
-I'm open for hiring - to learn and provide. Get in touch.
-  
-<div style="display: inline_block"><br>
-  <img align="center" alt="Gab-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Gab-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Gab-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Gab-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Gab-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
-  
-  ##
- 
-<div>
-  <a href="https://api.whatsapp.com/send?phone=5511969051397&text=Hi!%20I%20found%20your%20profile%20on%20GitHub." target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/bgfborges" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="https://discordapp.com/users/ikoba218#0291" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:bgfborges@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/bgfborges/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-</div>
+- 🧑‍💼 Currently Open for Hiring.
 
-<div>
-<hr />
-#backend #frontend #javascript #node #react
-</div>
+<br><br>
+
+## 🛠 &nbsp;Tech Stack
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
+![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=sqlite)&nbsp;
+
+<br><br>
+
+## ⚙️ &nbsp;GitHub Analytics
+
+<p align="left">
+<img width="530em" src="https://github-readme-stats.vercel.app/api?username=bgfborges&show_icons=true&theme=vision-friendly-dark" alt="maykbrito's stats"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bgfborges&layout=compact&theme=vision-friendly-dark" alt="bgfborges' most languages"/>
+</p>
+
+<br><br>
+
+## 👨🏽‍🦲 &nbsp;Social Links
+
+<p align="left" style="background:yellow">
+<a href="https://linkedin.com/in/bgfborges" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-bgfborges-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+</a>
+<a href="https://instagram.com/bgfborges" target="_blank">
+ <img align="center" src="https://img.shields.io/badge/-bgfborges-05122A?style=flat&logo=instagram" alt="instagram"/>
+</a>
+</p>
+
+<!--
+**maykbrito/maykbrito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
