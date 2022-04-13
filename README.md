@@ -1,4 +1,4 @@
-## Hello, World! I'm Gabriel, WordPress - PHP/JS specialist, NodeJS and React developer!
+## I'm Gabriel - NodeJS and React developer!
 
 ### Hello World! 👋
 
