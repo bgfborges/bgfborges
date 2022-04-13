@@ -5,25 +5,10 @@
 I'm a fullstack programmer. I've been programming for over 10 years, many of which were with PHP and HTML/CSS/JS and frameworks like WordPress, then Javascript/Typescript with Node and React.
 
 I love learning professionally as well as for many different hobbies.
+Languages: 🇧🇷 Portuguese (native) // 🇺🇸 English (advanced) // 🇷🇺 Russian (advanced) // 🇪🇸 Spanish (Intermediate) //🇩🇪 German (Beginner)
 
-<ul>
-  <li>Languages:</li>
-  <ul>
-    <li>🇧🇷 Portuguese (native)</li>
-    <li>🇺🇸 English (advanced)</li>
-    <li>🇷🇺 Russian (advanced)</li>
-    <li>🇪🇸 Spanish (Intermediate)</li>
-    <li>🇩🇪 German (Beginner)</li>
-  </ul>
-  <li>Hobbies:</li>
-  <ul>
-    <li>✍🏻 Writting (Poems and Short Stories)</li>
-    <li>📚 Reading (Poems and Romances)</li>
-    <li>📚 Studying (Physics and Math)</li>
-    <li>🎱 Playing Billiards (Intermediate)</li>
-    <li>🍽️ Cooking the Most Exotic Foods</li>
-  </ul>
-</ul>
+
+Hobbies: ✍🏻 Writting (Poems and Short Stories) // 📚 Reading (Poems and Romances) // 📚 Studying (Physics and Math) // 🎱 Playing Billiards (Intermediate) // 🍽️ Cooking the Most Exotic Foods
 
 Many of my works are privet because of contractual affairs, anyway I can show what I'm able for. 
 
