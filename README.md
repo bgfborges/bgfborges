@@ -14,8 +14,6 @@
 
 - ⚡ Fun fact... **More than I do speak Russian?**
 
-- 🧑‍💼 Currently Open for Hiring.
-
 <br><br>
 
 ## 🛠 &nbsp;Tech Stack
