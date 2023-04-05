@@ -1,5 +1,5 @@
 <img align="right" height="500em" src="https://raw.githubusercontent.com/gist/bgfborges/b02918436c83505a13fb9ce41b8f64e2/raw/86fe8a871ce07df058f03cd65e9586c4dc88b62d/githubcard.svg"/>
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Breno Borges</h1>
+<h1 align="left">Hi <img src="https://github.com/Liliane-Zechel/kaueMarques/raw/master/hi.gif" width="30px">, I'm Breno Borges</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bgfborges&color=yellow" alt="Profile views" /> </p>
 
 - 🔥 Web Developer focused on JavaScript Technologies
